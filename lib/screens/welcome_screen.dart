@@ -75,13 +75,13 @@ class WelcomeScreen extends StatelessWidget {
                       ),
                       child: ClipRRect(
                         borderRadius: BorderRadius.circular(12),
-                        child: Icon(
-                          Icons.shopping_bag,
-                          size: 80,
-                          color: Colors.blue[700],
+                        child: Image.asset(
+                          'assets/images/local_image.png',
+                          fit: BoxFit.cover,
                         ),
                       ),
                     ),
+
                     const SizedBox(width: 20),
                     // Online image
                     Container(
