@@ -47,9 +47,9 @@ A Flutter shopping app I built during the Microsoft Sprint course. Includes user
 
 ## Screenshots
 
-* Welcome Screen : [Welcome Screen](screenshots/welcome_screen.png)
-* Sign Up / Sign In Screens : ![Sign Up](screenshots/signup_screen.png) , [Sign In](screenshots/signin_screen.png)
-* Shopping Home: ![Shopping Home](screenshots/shopping_home.png) ,![hot offers](screenshots/hot offers.png)
+* Welcome Screen : [Welcome Screen](assets/images/welcome_screen.png)
+* Sign Up / Sign In Screens : ![Sign Up](assets/images/signup_screen.png) , [Sign In](assets/images/signin_screen.png)
+* Shopping Home: ![Shopping Home](assets/images/shopping_home.png) ,![hot offers](assets/images/hot_offers.png)
 
 ## Author
 
